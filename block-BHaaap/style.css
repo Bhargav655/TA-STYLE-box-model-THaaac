@@ -1,0 +1,24 @@
+.pic {
+    border-radius: 12px;
+}
+.cir {
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.link {
+    text-align: center;
+    border: 3px blue dashed;
+    font-size: 30px;
+    background-color: #a1a1a1;
+}
+.box {
+    border: 1px solid red;
+    background-color: #d18c1d;
+    padding: 10px;
+}
+.para {
+    background-color: #d1d631;
+    border: 2px black dotted;
+}
