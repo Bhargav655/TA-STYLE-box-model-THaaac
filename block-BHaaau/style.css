@@ -1,0 +1,22 @@
+h1 {
+    font-size: 105px;
+    text-align:center;
+    margin-left: 65px;
+    margin-right: 65px;
+}
+h2 {
+    text-align: center;
+    font-size: 35px;
+}
+.one {
+    background-color: lightcyan;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    outline: 15px solid rgb(207, 72, 72);
+    box-shadow: inset 0 0 0 15px rgb(108, 189, 216)
+}
