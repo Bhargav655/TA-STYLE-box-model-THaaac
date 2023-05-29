@@ -1,0 +1,42 @@
+header {
+    text-align: center;
+    color: white;
+}
+.solid {
+    background-color: rgb(75, 72, 72);
+    padding-bottom: 80px;
+}
+h1 {
+    font-size: 60px;
+}
+h2 {
+    font-size: 50px;
+}
+section {
+    padding-left: 30px;
+    color: white;
+}
+.lens {
+    background-color: rgb(72, 72, 238);
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.girl {
+    background-color: rgb(67, 67, 211);
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.axe {
+    background-color: rgb(58, 58, 167);
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+footer {
+    background-color: rgb(75, 72, 72);
+    padding-top: 30px;
+    padding-bottom: 50px;
+    color: aliceblue;
+}
+.links {
+    color: white;
+}
