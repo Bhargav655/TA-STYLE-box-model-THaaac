@@ -1,0 +1,53 @@
+.rec {
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    border: 10px solid black;
+}
+.two {
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    border: 10px solid black;
+    margin-top: 20px;
+}
+.squ {
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    border: 10px solid black;
+    border-style: dashed;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.box {
+    display: flex;
+}
+.dot {
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    margin-top: 20px;
+    border: 10px solid black;
+    border-style: dotted;
+}
+.plain {
+    width: 115px;
+    height: 55px;
+    background-color: brown;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+.three {
+    display: flex;
+}
+.log {
+    width: 400px;
+    height: 600px;
+    background-color:brown;
+    padding: 10px;
+    border: 30px solid purple;
+    border-style: double;
+    margin-top: 20px;
+    font-size: 35px;
+}
